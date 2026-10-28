@@ -1,4 +1,4 @@
-# Boston Housing Price Linerar Regression
+# ML — Boston Housing Price Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white) ![Framework](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Model](https://img.shields.io/badge/Model-Linear_Regression-orange)
 
@@ -58,8 +58,8 @@ These are the notebook's saved results, not a newly executed benchmark or cross-
 Use Python 3.11 or later, starting from the repository root:
 
 ```bash
-git clone https://github.com/vams2krish/Boston-Housing-Price-Linerar-Regression.git
-cd Boston-Housing-Price-Linerar-Regression
+git clone https://github.com/vams2krish/ML-Boston-Housing-Price-Prediction.git
+cd ML-Boston-Housing-Price-Prediction
 python -m venv .venv
 ```
 
